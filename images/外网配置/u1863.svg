@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="19px" height="19px" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <mask fill="white" id="clip333">
+      <path d="M 6 19  C 2.6699999999999995 19  0 16.330000000000002  0 13  L 0 6  C 0 2.6699999999999995  2.6699999999999995 0  6 0  L 13 0  C 16.330000000000002 0  19 2.6699999999999995  19 6  L 19 13  C 19 16.330000000000002  16.330000000000002 19  13 19  " fill-rule="evenodd" />
+    </mask>
+  </defs>
+  <g>
+    <image preserveAspectRatio="none" style="overflow:visible" width="19" height="19" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAPJJREFUSEvt0iFLQ1EYxvHfnBiMIgg2u1/DsiIIgmKSFYtBmIKYNahg2MKKmERBGFgsfg27TRDEKAZl3gNnMMV5zoSxcm+64Xn/f97nvBUj/ioj5isFyYbLiv5dURUNnOMlQZlFHaf4/Jkd9Abb2McjVvE0QDKPGyzgCK1cwSTaqOEZK1HWPx+gHczhDlv4yBWEXNjuGBt4xRoeImAR15jBJfbQ/W3LnDPdxU4BecN6hFwV8mmc4eSvN8oRhPlNHOIdE0XfUzjAReqMcgWBs4xmBIYjuE3Bez3n5HqZpfhznzs0zAa5zG+5UpCsraxo/BV9AdP7HxlY5YS7AAAAAElFTkSuQmCC" x="0px" y="0px" mask="url(#clip333)" />
+  </g>
+</svg>
